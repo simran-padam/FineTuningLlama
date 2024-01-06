@@ -1,5 +1,5 @@
 # FineTuningLlama
-FineTuning Llama to create a versatile chatbot 
+FineTuning Llama to create a versatile chatbot on Colab
 
 - Deploy Llama2 Model based on an OpenAssistant Dataset
 - Fine-tune model to construct a versatile chatbot using LangChain
@@ -15,7 +15,7 @@ FineTuning Llama to create a versatile chatbot
 import os
 import torch
 from datasets import load_dataset
-from transformers import (AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, HfArgumentParser,TrainingArguments, pipeline, logging)
+from transformers import (AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, HfArgumentParser, TrainingArguments, pipeline, logging)
 
 from peft import LoraConfig, PeftModel
 from trl import SFTTrainer
