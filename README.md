@@ -22,11 +22,11 @@ from trl import SFTTrainer
 import platform
 ```
 
-## Model Stored in Hugging face hub
+## Fine-Tuned Model Stored in Hugging face hub
+
 
 <img src="https://github.com/simran-padam/FineTuningLlama/blob/main/images/huggingface-model.png" width="800" height="400" />
 
-#![image](https://github.com/simran-padam/FineTuningLlama/blob/main/images/huggingface-model.png)
 
 
 
