@@ -1,5 +1,5 @@
-# FineTuningLlama
-FineTuning Llama to create a versatile chatbot on Colab
+# Fine Tuning Llama2
+Fine-Tuning Llama to create a versatile chatbot on Colab
 
 - Deploy Llama2 Model based on an OpenAssistant Dataset
 - Fine-tune model to construct a versatile chatbot using LangChain
