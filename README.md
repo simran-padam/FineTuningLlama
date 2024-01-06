@@ -24,7 +24,9 @@ import platform
 
 ## Model Stored in Hugging face hub
 
-![image](https://github.com/simran-padam/FineTuningLlama/blob/main/images/huggingface-model.png)
+<img src="https://github.com/simran-padam/FineTuningLlama/blob/main/images/huggingface-model.png" width="200" height="400" />
+
+#![image](https://github.com/simran-padam/FineTuningLlama/blob/main/images/huggingface-model.png)
 
 
 
